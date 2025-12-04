@@ -4,7 +4,7 @@ A web based personal budget tracker
 #Description
 A simple web-based Personal Budget Tracker built with Django ,Bootstrap and Html. Users can add income and expenses, track their balance, and visualize their budget. Premium features, like exporting reports and viewing advanced summaries, require M-PESA payment.
 
-#Features
+# Features
 
 1.User Authentication (Register/Login)
 
@@ -14,13 +14,13 @@ A simple web-based Personal Budget Tracker built with Django ,Bootstrap and Html
 
 4.Premium features unlocked via M-PESA payment:
 
-Export reports (CSV/PDF)
-Advanced weekly/monthly summaries
-Multiple budgets/accounts
+  -Export reports (CSV/PDF)
+  -Advanced weekly/monthly summaries
+  -Multiple budgets/accounts
 
 5.Responsive dashboard using Bootstrap
 
-#How It Works
+# How It Works
 1.Users register and log in.
 
 2.Users add income and expense entries.
